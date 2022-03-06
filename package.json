@@ -1,7 +1,7 @@
 {
-  "name": "tsconfig.json",
+  "name": "thatnct",
   "version": "1.0.7",
-  "description": "Quickly create an opinionated tsconfig.json",
+  "description": "a Ai ChaiBot",
   "main": "src/index.js",
   "bin": "src/index.js",
   "scripts": {
@@ -9,19 +9,19 @@
     "semantic-release": "semantic-release"
   },
   "keywords": [
-    "tsconfig",
-    "tsconfig.json",
+    "thatnct",
+    "that",
     "typescript",
-    "ts"
+    "nct"
   ],
-  "author": "Ben Awad",
+  "author": "ThatNCT",
   "license": "MIT",
   "dependencies": {
     "inquirer": "^6.3.1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benawad/tsconfig.json.git"
+    "url": "git+https://github.com/thatnct/chai_py.git"
   },
   "bugs": {
     "url": "https://github.com/benawad/tsconfig.json/issues"
